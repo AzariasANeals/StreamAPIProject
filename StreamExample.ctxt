@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StreamExample
+comment0.text=\r\n\ This\ is\ the\ StreamExample\ class.\ It\ will\ be\ where\ we\ will\ be\ \r\n\ running\ our\ program\ demo\ from.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=list
+comment2.target=void\ fillArrayListInts(java.util.List)
+comment3.params=list
+comment3.target=int\ sumListOfNumbers(java.util.List)
+comment4.params=list
+comment4.target=java.lang.String\ showEvenNumbers(java.util.List)
+comment5.params=list
+comment5.target=java.lang.String\ showSquares(java.util.List)
+comment6.params=list
+comment6.target=java.lang.String\ showCubesOfOdds(java.util.List)
+numComments=7

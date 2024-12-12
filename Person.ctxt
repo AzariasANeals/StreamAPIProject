@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ This\ is\ the\ Person\ class.\ It\ implements\ Comparable.\r\n
+comment1.params=name\ age
+comment1.target=Person(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=int\ getAge()
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment5.params=age
+comment5.target=void\ setAge(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=o
+comment7.target=int\ compareTo(java.lang.Object)
+numComments=8
